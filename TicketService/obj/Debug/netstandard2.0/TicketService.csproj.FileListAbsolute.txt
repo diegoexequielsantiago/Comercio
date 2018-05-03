@@ -1,0 +1,11 @@
+C:\Users\Diego\source\Comercio\TicketService\bin\Debug\netstandard2.0\TicketService.deps.json
+C:\Users\Diego\source\Comercio\TicketService\bin\Debug\netstandard2.0\TicketService.dll
+C:\Users\Diego\source\Comercio\TicketService\bin\Debug\netstandard2.0\TicketService.pdb
+C:\Users\Diego\source\Comercio\TicketService\bin\Debug\netstandard2.0\TicketDataService.dll
+C:\Users\Diego\source\Comercio\TicketService\bin\Debug\netstandard2.0\TicketDataService.pdb
+C:\Users\Diego\source\Comercio\TicketService\obj\Debug\netstandard2.0\TicketService.csprojResolveAssemblyReference.cache
+C:\Users\Diego\source\Comercio\TicketService\obj\Debug\netstandard2.0\TicketService.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\Comercio\TicketService\obj\Debug\netstandard2.0\TicketService.AssemblyInfoInputs.cache
+C:\Users\Diego\source\Comercio\TicketService\obj\Debug\netstandard2.0\TicketService.AssemblyInfo.cs
+C:\Users\Diego\source\Comercio\TicketService\obj\Debug\netstandard2.0\TicketService.dll
+C:\Users\Diego\source\Comercio\TicketService\obj\Debug\netstandard2.0\TicketService.pdb

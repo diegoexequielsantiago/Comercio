@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Consola/1.0.0": {
+        "dependencies": {
+          "ClienteDataService": "1.0.0",
+          "ClienteService": "1.0.0",
+          "DepositoDataService": "1.0.0",
+          "DepositoService": "1.0.0",
+          "TicketDataService": "1.0.0",
+          "TicketService": "1.0.0"
+        },
+        "runtime": {
+          "Consola.dll": {}
+        }
+      },
+      "ClienteDataService/1.0.0": {
+        "runtime": {
+          "ClienteDataService.dll": {}
+        }
+      },
+      "ClienteService/1.0.0": {
+        "dependencies": {
+          "ClienteDataService": "1.0.0"
+        },
+        "runtime": {
+          "ClienteService.dll": {}
+        }
+      },
+      "DepositoDataService/1.0.0": {
+        "runtime": {
+          "DepositoDataService.dll": {}
+        }
+      },
+      "DepositoService/1.0.0": {
+        "dependencies": {
+          "DepositoDataService": "1.0.0"
+        },
+        "runtime": {
+          "DepositoService.dll": {}
+        }
+      },
+      "TicketDataService/1.0.0": {
+        "runtime": {
+          "TicketDataService.dll": {}
+        }
+      },
+      "TicketService/1.0.0": {
+        "dependencies": {
+          "TicketDataService": "1.0.0"
+        },
+        "runtime": {
+          "TicketService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClienteDataService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClienteService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DepositoDataService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DepositoService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicketDataService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicketService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

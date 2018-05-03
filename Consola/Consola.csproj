@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ClienteDataService\ClienteDataService.csproj" />
+    <ProjectReference Include="..\ClienteService\ClienteService.csproj" />
+    <ProjectReference Include="..\DepositoDataService\DepositoDataService.csproj" />
+    <ProjectReference Include="..\DepositoService\DepositoService.csproj" />
+    <ProjectReference Include="..\TicketDataService\TicketDataService.csproj" />
+    <ProjectReference Include="..\TicketService\TicketService.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\Diego\source\Comercio\DepositoService\bin\Debug\netstandard2.0\DepositoService.deps.json
+C:\Users\Diego\source\Comercio\DepositoService\bin\Debug\netstandard2.0\DepositoService.dll
+C:\Users\Diego\source\Comercio\DepositoService\bin\Debug\netstandard2.0\DepositoService.pdb
+C:\Users\Diego\source\Comercio\DepositoService\bin\Debug\netstandard2.0\DepositoDataService.dll
+C:\Users\Diego\source\Comercio\DepositoService\bin\Debug\netstandard2.0\DepositoDataService.pdb
+C:\Users\Diego\source\Comercio\DepositoService\obj\Debug\netstandard2.0\DepositoService.csprojResolveAssemblyReference.cache
+C:\Users\Diego\source\Comercio\DepositoService\obj\Debug\netstandard2.0\DepositoService.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\Comercio\DepositoService\obj\Debug\netstandard2.0\DepositoService.AssemblyInfoInputs.cache
+C:\Users\Diego\source\Comercio\DepositoService\obj\Debug\netstandard2.0\DepositoService.AssemblyInfo.cs
+C:\Users\Diego\source\Comercio\DepositoService\obj\Debug\netstandard2.0\DepositoService.dll
+C:\Users\Diego\source\Comercio\DepositoService\obj\Debug\netstandard2.0\DepositoService.pdb
