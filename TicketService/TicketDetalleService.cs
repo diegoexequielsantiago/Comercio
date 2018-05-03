@@ -8,7 +8,7 @@ namespace TicketService
 {
     public class TicketDetalleService
     {
-        //metodo para obtener listado de TipoFactura de la base 
+        //metodo para obtener listado de TipoFactura de la ba
         public List<TicketDetalle> getAll()
         {
             return ConectionFactory.getBaseTickets().listaTicketDetalle;
