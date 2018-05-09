@@ -118,3 +118,8 @@ C:\Users\Diego\source\Comercio\ClienteApi\obj\Debug\ClienteApi.csprojResolveAsse
 C:\Users\Diego\source\Comercio\ClienteApi\obj\Debug\ClienteApi.csproj.CoreCompileInputs.cache
 C:\Users\Diego\source\Comercio\ClienteApi\obj\Debug\ClienteApi.dll
 C:\Users\Diego\source\Comercio\ClienteApi\obj\Debug\ClienteApi.pdb
+C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.dll
+C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.xml
+C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Diego\source\Comercio\ClienteApi\bin\ClienteDataService.dll.config

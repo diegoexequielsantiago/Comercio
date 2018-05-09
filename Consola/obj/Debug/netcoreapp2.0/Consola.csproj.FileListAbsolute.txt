@@ -21,3 +21,4 @@ C:\Users\Diego\source\Comercio\Consola\obj\Debug\netcoreapp2.0\Consola.AssemblyI
 C:\Users\Diego\source\Comercio\Consola\obj\Debug\netcoreapp2.0\Consola.AssemblyInfo.cs
 C:\Users\Diego\source\Comercio\Consola\obj\Debug\netcoreapp2.0\Consola.dll
 C:\Users\Diego\source\Comercio\Consola\obj\Debug\netcoreapp2.0\Consola.pdb
+C:\Users\Diego\source\Comercio\Consola\bin\Debug\netcoreapp2.0\ClienteDataService.dll.config

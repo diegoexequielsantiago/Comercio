@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "2468f8819b4e290b1a8667020137de51bd83af19"
+    "signature": "cba2920e86580291fc752aaba7ce19f603c47f2d"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,10 +10,17 @@
       "ClienteService/1.0.0": {
         "dependencies": {
           "ClienteDataService": "1.0.0",
+          "EntityFramework": "6.2.0",
           "NETStandard.Library": "2.0.1"
         },
         "runtime": {
           "ClienteService.dll": {}
+        }
+      },
+      "EntityFramework/6.2.0": {
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -23,6 +30,9 @@
         }
       },
       "ClienteDataService/1.0.0": {
+        "dependencies": {
+          "EntityFramework": "6.2.0"
+        },
         "runtime": {
           "ClienteDataService.dll": {}
         }
@@ -34,6 +44,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "EntityFramework/6.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ptGyXOf26qLrtn+2doAmylIlCxOnBJANwlyyLrXDmqIk9O18IzLWHyxDwwAyhgXkxmbiaA0WNpRy67WRReInBw==",
+      "path": "entityframework/6.2.0",
+      "hashPath": "entityframework.6.2.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

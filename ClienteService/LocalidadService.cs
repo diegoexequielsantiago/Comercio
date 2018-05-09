@@ -11,7 +11,7 @@ namespace ClienteService
         //Método para obtener listado de tickets
         public List<Localidad> getAll()
         {
-            return ConectionFactory.getBaseClientes().listaLocalidad;
+            return ConectionFactory.getBaseClientes().listaLocalidad.ToList();
         }
 
         // input: idLocalidad
@@ -19,7 +19,7 @@ namespace ClienteService
         // Output: Devuelve Objeto
         public Localidad find(int idlocalidad)
         {
-            List<Localidad> listaLocalidades = ConectionFactory.getBaseClientes().listaLocalidad;
+            List<Localidad> listaLocalidades = ConectionFactory.getBaseClientes().listaLocalidad.ToList();
             return listaLocalidades.FirstOrDefault(localidad => (localidad.id == idlocalidad));
         }
 
@@ -28,7 +28,7 @@ namespace ClienteService
         // Output: Devuelto dicha Localidad
         public Localidad addLocalidad(int codigoPostal, string descripcion)
         {
-            int id = ConectionFactory.getBaseClientes().listaLocalidad.Count;
+            int id = ConectionFactory.getBaseClientes().listaLocalidad.Count();
             Localidad localidadnew = new Localidad(id, codigoPostal , descripcion);
             ConectionFactory.getBaseClientes().listaLocalidad.Add(localidadnew);
             return localidadnew;
@@ -59,7 +59,7 @@ namespace ClienteService
             clienteService.eliminarLocalidad(localidadBuscada);
             //Remuevo la localidad de la lista localidades
             ConectionFactory.getBaseClientes().listaLocalidad.Remove(localidadBuscada);
-            return ConectionFactory.getBaseClientes().listaLocalidad;
+            return ConectionFactory.getBaseClientes().listaLocalidad.ToList();
         }
     }
 }

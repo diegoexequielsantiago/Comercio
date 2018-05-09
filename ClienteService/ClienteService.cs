@@ -11,7 +11,7 @@ namespace ClienteService
         //Método para obtener listado de Clientes
         public List<Cliente> getAll()
         {
-            return ConectionFactory.getBaseClientes().listaClientes;
+            return ConectionFactory.getBaseClientes().listaClientes.ToList();
         }
 
         // input: Atributos Cliente indispensables
@@ -19,7 +19,7 @@ namespace ClienteService
         // Output: Devuelto dicho Cliente
         public Cliente addCliente(int numeroCliente, string nombre, Localidad localidadCliente)
         {
-            int id = ConectionFactory.getBaseClientes().listaClientes.Count;
+            int id = ConectionFactory.getBaseClientes().listaClientes.Count();
             Cliente clientenew = new Cliente(id, numeroCliente, nombre, localidadCliente);
             return clientenew;
         }
@@ -37,7 +37,7 @@ namespace ClienteService
             localidadCliente.removeCliente(clienteBuscado);
             //Remuevo al cliente de la lista de clientes
             ConectionFactory.getBaseClientes().listaClientes.Remove(clienteBuscado);
-            return ConectionFactory.getBaseClientes().listaClientes;
+            return ConectionFactory.getBaseClientes().listaClientes.ToList();
         }
 
         // input: Id del cliente a Buscar
@@ -45,7 +45,7 @@ namespace ClienteService
         // Output: Devuelve el mismo
         public Cliente find(int idcliente)
         {
-            List<Cliente> listacliente = ConectionFactory.getBaseClientes().listaClientes;
+            List<Cliente> listacliente = ConectionFactory.getBaseClientes().listaClientes.ToList();
             return listacliente.FirstOrDefault(cliente => (cliente.id == idcliente));
         }
 

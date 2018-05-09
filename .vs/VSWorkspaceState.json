@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClienteApi",
-    "\\TicketService"
+    "\\ClienteApi\\Properties",
+    "\\Consola"
   ],
   "SelectedNode": "\\depositoAplicacion.sln",
   "PreviewInSolutionExplorer": false
