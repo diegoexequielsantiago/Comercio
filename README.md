@@ -1,2 +1,0 @@
-# Comercio
-Gestión comercio online
