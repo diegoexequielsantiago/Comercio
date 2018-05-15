@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\source\\comercio\\DepositoDataService\\DepositoDataService.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\source\\Comercio\\DepositoDataService\\DepositoDataService.csproj",
       "projectName": "DepositoDataService",
-      "projectPath": "C:\\Users\\Diego\\source\\comercio\\DepositoDataService\\DepositoDataService.csproj",
+      "projectPath": "C:\\Users\\Diego\\source\\Comercio\\DepositoDataService\\DepositoDataService.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\source\\comercio\\DepositoDataService\\obj\\",
+      "outputPath": "C:\\Users\\Diego\\source\\Comercio\\DepositoDataService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

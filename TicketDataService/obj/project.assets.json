@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\source\\comercio\\TicketDataService\\TicketDataService.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\source\\Comercio\\TicketDataService\\TicketDataService.csproj",
       "projectName": "TicketDataService",
-      "projectPath": "C:\\Users\\Diego\\source\\comercio\\TicketDataService\\TicketDataService.csproj",
+      "projectPath": "C:\\Users\\Diego\\source\\Comercio\\TicketDataService\\TicketDataService.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\source\\comercio\\TicketDataService\\obj\\",
+      "outputPath": "C:\\Users\\Diego\\source\\Comercio\\TicketDataService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
