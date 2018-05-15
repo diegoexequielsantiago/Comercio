@@ -244,11 +244,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\source\\Comercio\\ClienteService\\ClienteService.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\source\\comercio\\ClienteService\\ClienteService.csproj",
       "projectName": "ClienteService",
-      "projectPath": "C:\\Users\\Diego\\source\\Comercio\\ClienteService\\ClienteService.csproj",
+      "projectPath": "C:\\Users\\Diego\\source\\comercio\\ClienteService\\ClienteService.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\source\\Comercio\\ClienteService\\obj\\",
+      "outputPath": "C:\\Users\\Diego\\source\\comercio\\ClienteService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,4 +6,3 @@ C:\Users\Diego\source\Comercio\TicketDataService\obj\Debug\netstandard2.0\Ticket
 C:\Users\Diego\source\Comercio\TicketDataService\obj\Debug\netstandard2.0\TicketDataService.AssemblyInfo.cs
 C:\Users\Diego\source\Comercio\TicketDataService\obj\Debug\netstandard2.0\TicketDataService.dll
 C:\Users\Diego\source\Comercio\TicketDataService\obj\Debug\netstandard2.0\TicketDataService.pdb
-C:\Users\Diego\source\Comercio\TicketDataService\obj\Debug\netstandard2.0\TicketDataService.csprojResolveAssemblyReference.cache

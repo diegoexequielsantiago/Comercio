@@ -820,11 +820,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\source\\Comercio\\Consola\\Consola.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\source\\comercio\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "C:\\Users\\Diego\\source\\Comercio\\Consola\\Consola.csproj",
+      "projectPath": "C:\\Users\\Diego\\source\\comercio\\Consola\\Consola.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\source\\Comercio\\Consola\\obj\\",
+      "outputPath": "C:\\Users\\Diego\\source\\comercio\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -843,23 +843,23 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Diego\\source\\Comercio\\ClienteService\\ClienteService.csproj": {
-              "projectPath": "C:\\Users\\Diego\\source\\Comercio\\ClienteService\\ClienteService.csproj"
+            "C:\\Users\\Diego\\source\\comercio\\ClienteService\\ClienteService.csproj": {
+              "projectPath": "C:\\Users\\Diego\\source\\comercio\\ClienteService\\ClienteService.csproj"
             },
-            "C:\\Users\\Diego\\source\\Comercio\\DepositoDataService\\DepositoDataService.csproj": {
-              "projectPath": "C:\\Users\\Diego\\source\\Comercio\\DepositoDataService\\DepositoDataService.csproj"
+            "C:\\Users\\Diego\\source\\comercio\\DepositoDataService\\DepositoDataService.csproj": {
+              "projectPath": "C:\\Users\\Diego\\source\\comercio\\DepositoDataService\\DepositoDataService.csproj"
             },
-            "C:\\Users\\Diego\\source\\Comercio\\TicketDataService\\TicketDataService.csproj": {
-              "projectPath": "C:\\Users\\Diego\\source\\Comercio\\TicketDataService\\TicketDataService.csproj"
+            "C:\\Users\\Diego\\source\\comercio\\TicketDataService\\TicketDataService.csproj": {
+              "projectPath": "C:\\Users\\Diego\\source\\comercio\\TicketDataService\\TicketDataService.csproj"
             },
             "C:\\Users\\Diego\\source\\ClienteDataService\\ClienteDataService.csproj": {
               "projectPath": "C:\\Users\\Diego\\source\\ClienteDataService\\ClienteDataService.csproj"
             },
-            "C:\\Users\\Diego\\source\\Comercio\\DepositoService\\DepositoService.csproj": {
-              "projectPath": "C:\\Users\\Diego\\source\\Comercio\\DepositoService\\DepositoService.csproj"
+            "C:\\Users\\Diego\\source\\comercio\\DepositoService\\DepositoService.csproj": {
+              "projectPath": "C:\\Users\\Diego\\source\\comercio\\DepositoService\\DepositoService.csproj"
             },
-            "C:\\Users\\Diego\\source\\Comercio\\TicketService\\TicketService.csproj": {
-              "projectPath": "C:\\Users\\Diego\\source\\Comercio\\TicketService\\TicketService.csproj"
+            "C:\\Users\\Diego\\source\\comercio\\TicketService\\TicketService.csproj": {
+              "projectPath": "C:\\Users\\Diego\\source\\comercio\\TicketService\\TicketService.csproj"
             }
           }
         }
