@@ -1,6 +1,3 @@
-C:\Users\Diego\source\Comercio\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
-C:\Users\Diego\source\Comercio\Consola\obj\Debug\Consola.csproj.Consola.exe.config
-C:\Users\Diego\source\Comercio\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\Consola.exe.config
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\Consola.exe
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\Consola.pdb
@@ -106,6 +103,8 @@ C:\Users\Diego\source\Comercio\Consola\bin\Debug\ClienteService.dll
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\DepositoApi.dll
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\DepositoDataService.dll
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\DepositoService.dll
+C:\Users\Diego\source\Comercio\Consola\bin\Debug\EntityFramework.dll
+C:\Users\Diego\source\Comercio\Consola\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\TicketDataService.dll
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\TicketsApi.dll
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\TicketService.dll
@@ -126,6 +125,8 @@ C:\Users\Diego\source\Comercio\Consola\bin\Debug\DepositoDataService.pdb
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\DepositoService.pdb
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\TicketDataService.pdb
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\TicketService.pdb
+C:\Users\Diego\source\Comercio\Consola\bin\Debug\EntityFramework.xml
+C:\Users\Diego\source\Comercio\Consola\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\System.Web.Http.xml
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\System.Web.Http.WebHost.xml
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\System.Net.Http.Formatting.xml
@@ -133,5 +134,8 @@ C:\Users\Diego\source\Comercio\Consola\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\es\System.Web.Http.resources.dll
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\es\System.Web.Http.WebHost.resources.dll
 C:\Users\Diego\source\Comercio\Consola\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Diego\source\Comercio\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\Diego\source\Comercio\Consola\obj\Debug\Consola.csproj.Consola.exe.config
+C:\Users\Diego\source\Comercio\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
 C:\Users\Diego\source\Comercio\Consola\obj\Debug\Consola.exe
 C:\Users\Diego\source\Comercio\Consola\obj\Debug\Consola.pdb
