@@ -8,3 +8,13 @@ C:\Users\Diego\source\ClienteDataService\obj\Debug\netstandard2.0\ClienteDataSer
 C:\Users\Diego\source\ClienteDataService\obj\Debug\netstandard2.0\ClienteDataService.pdb
 C:\Users\Diego\source\ClienteDataService\obj\Debug\netstandard2.0\ClienteDataService.csprojResolveAssemblyReference.cache
 C:\Users\Diego\source\ClienteDataService\bin\Debug\netstandard2.0\ClienteDataService.dll.config
+C:\Users\Diego\source\Comercio\ClienteDataService\bin\Debug\netstandard2.0\ClienteDataService.dll.config
+C:\Users\Diego\source\Comercio\ClienteDataService\bin\Debug\netstandard2.0\ClienteDataService.deps.json
+C:\Users\Diego\source\Comercio\ClienteDataService\bin\Debug\netstandard2.0\ClienteDataService.dll
+C:\Users\Diego\source\Comercio\ClienteDataService\bin\Debug\netstandard2.0\ClienteDataService.pdb
+C:\Users\Diego\source\Comercio\ClienteDataService\obj\Debug\netstandard2.0\ClienteDataService.csprojResolveAssemblyReference.cache
+C:\Users\Diego\source\Comercio\ClienteDataService\obj\Debug\netstandard2.0\ClienteDataService.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\Comercio\ClienteDataService\obj\Debug\netstandard2.0\ClienteDataService.AssemblyInfoInputs.cache
+C:\Users\Diego\source\Comercio\ClienteDataService\obj\Debug\netstandard2.0\ClienteDataService.AssemblyInfo.cs
+C:\Users\Diego\source\Comercio\ClienteDataService\obj\Debug\netstandard2.0\ClienteDataService.dll
+C:\Users\Diego\source\Comercio\ClienteDataService\obj\Debug\netstandard2.0\ClienteDataService.pdb

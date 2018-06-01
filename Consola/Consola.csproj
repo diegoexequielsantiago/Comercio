@@ -1,17 +1,90 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D0B2BA87-D2B5-4775-AE30-C1D6F5C992F8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>Consola</RootNamespace>
+    <AssemblyName>Consola</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
-
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ClienteDataService\ClienteDataService.csproj" />
-    <ProjectReference Include="..\ClienteService\ClienteService.csproj" />
-    <ProjectReference Include="..\DepositoDataService\DepositoDataService.csproj" />
-    <ProjectReference Include="..\DepositoService\DepositoService.csproj" />
-    <ProjectReference Include="..\TicketDataService\TicketDataService.csproj" />
-    <ProjectReference Include="..\TicketService\TicketService.csproj" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
-
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClienteApi\ClienteApi.csproj">
+      <Project>{e797cc49-41a2-46a8-8717-2635a785281d}</Project>
+      <Name>ClienteApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClienteDataService\ClienteDataService.csproj">
+      <Project>{7a3087da-8794-45fd-80ee-1ffe69863818}</Project>
+      <Name>ClienteDataService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClienteService\ClienteService.csproj">
+      <Project>{7ebb58e6-a16b-4046-ae61-43137cc4b85b}</Project>
+      <Name>ClienteService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DepositoApi\DepositoApi.csproj">
+      <Project>{facf7637-a471-4eb8-836a-f023b1da849c}</Project>
+      <Name>DepositoApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DepositoDataService\DepositoDataService.csproj">
+      <Project>{9d6ae000-76e8-42d7-a764-d4e8893c333f}</Project>
+      <Name>DepositoDataService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DepositoService\DepositoService.csproj">
+      <Project>{273c4950-599e-49ca-8ce5-ed0de5ff2b60}</Project>
+      <Name>DepositoService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TicketDataService\TicketDataService.csproj">
+      <Project>{0fb48ede-e0fb-4263-b9cf-c8667892a463}</Project>
+      <Name>TicketDataService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TicketsApi\TicketsApi.csproj">
+      <Project>{564cb6c7-a4a2-4b76-b307-abb4d5e0160a}</Project>
+      <Name>TicketsApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TicketService\TicketService.csproj">
+      <Project>{812d1347-b70e-4a7c-8533-e9b5202315c9}</Project>
+      <Name>TicketService</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

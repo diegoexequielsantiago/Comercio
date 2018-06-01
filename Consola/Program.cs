@@ -1,10 +1,11 @@
 ﻿using ClienteDataService;
+using ClienteService;
 using System;
 using System.Collections.Generic;
 
 namespace Consola
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -18,7 +19,7 @@ namespace Consola
             for (int i = 0; i < listaclientes.Count; i++)
             {
                 Console.WriteLine(listaclientes[i].nombreCompleto);
-               // Console.WriteLine(listaclientes[i].Localidad);
+                // Console.WriteLine(listaclientes[i].Localidad);
 
             }
             //Instancio una base productos

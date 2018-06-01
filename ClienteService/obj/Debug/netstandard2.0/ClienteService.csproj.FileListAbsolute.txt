@@ -3,10 +3,10 @@ C:\Users\Diego\source\Comercio\ClienteService\bin\Debug\netstandard2.0\ClienteSe
 C:\Users\Diego\source\Comercio\ClienteService\bin\Debug\netstandard2.0\ClienteService.pdb
 C:\Users\Diego\source\Comercio\ClienteService\bin\Debug\netstandard2.0\ClienteDataService.dll
 C:\Users\Diego\source\Comercio\ClienteService\bin\Debug\netstandard2.0\ClienteDataService.pdb
+C:\Users\Diego\source\Comercio\ClienteService\bin\Debug\netstandard2.0\ClienteDataService.dll.config
 C:\Users\Diego\source\Comercio\ClienteService\obj\Debug\netstandard2.0\ClienteService.csprojResolveAssemblyReference.cache
 C:\Users\Diego\source\Comercio\ClienteService\obj\Debug\netstandard2.0\ClienteService.csproj.CoreCompileInputs.cache
 C:\Users\Diego\source\Comercio\ClienteService\obj\Debug\netstandard2.0\ClienteService.AssemblyInfoInputs.cache
 C:\Users\Diego\source\Comercio\ClienteService\obj\Debug\netstandard2.0\ClienteService.AssemblyInfo.cs
 C:\Users\Diego\source\Comercio\ClienteService\obj\Debug\netstandard2.0\ClienteService.dll
 C:\Users\Diego\source\Comercio\ClienteService\obj\Debug\netstandard2.0\ClienteService.pdb
-C:\Users\Diego\source\Comercio\ClienteService\bin\Debug\netstandard2.0\ClienteDataService.dll.config

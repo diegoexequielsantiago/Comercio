@@ -112,8 +112,8 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ClienteDataService\ClienteDataService.csproj">
-      <Project>{d2ea31a9-f1c9-4e3f-a642-d291c433c2ce}</Project>
+    <ProjectReference Include="..\ClienteDataService\ClienteDataService.csproj">
+      <Project>{7a3087da-8794-45fd-80ee-1ffe69863818}</Project>
       <Name>ClienteDataService</Name>
     </ProjectReference>
     <ProjectReference Include="..\ClienteService\ClienteService.csproj">

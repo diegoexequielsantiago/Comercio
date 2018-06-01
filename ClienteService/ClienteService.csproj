@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ClienteDataService\ClienteDataService.csproj" />
+    <ProjectReference Include="..\ClienteDataService\ClienteDataService.csproj" />
   </ItemGroup>
 
 </Project>

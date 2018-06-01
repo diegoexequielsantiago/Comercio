@@ -223,8 +223,8 @@
     },
     "ClienteDataService/1.0.0": {
       "type": "project",
-      "path": "../../ClienteDataService/ClienteDataService.csproj",
-      "msbuildProject": "../../ClienteDataService/ClienteDataService.csproj"
+      "path": "../ClienteDataService/ClienteDataService.csproj",
+      "msbuildProject": "../ClienteDataService/ClienteDataService.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -267,8 +267,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Diego\\source\\ClienteDataService\\ClienteDataService.csproj": {
-              "projectPath": "C:\\Users\\Diego\\source\\ClienteDataService\\ClienteDataService.csproj"
+            "C:\\Users\\Diego\\source\\Comercio\\ClienteDataService\\ClienteDataService.csproj": {
+              "projectPath": "C:\\Users\\Diego\\source\\Comercio\\ClienteDataService\\ClienteDataService.csproj"
             }
           }
         }

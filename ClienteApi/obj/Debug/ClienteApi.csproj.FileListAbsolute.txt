@@ -99,13 +99,18 @@ C:\Users\Diego\source\Comercio\ClienteApi\bin\System.Xml.XPath.dll
 C:\Users\Diego\source\Comercio\ClienteApi\bin\System.Xml.XPath.XDocument.dll
 C:\Users\Diego\source\Comercio\ClienteApi\bin\ClienteDataService.dll
 C:\Users\Diego\source\Comercio\ClienteApi\bin\ClienteService.dll
+C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.dll
+C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.SqlServer.dll
 C:\Users\Diego\source\Comercio\ClienteApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Diego\source\Comercio\ClienteApi\bin\Newtonsoft.Json.dll
 C:\Users\Diego\source\Comercio\ClienteApi\bin\System.Net.Http.Formatting.dll
 C:\Users\Diego\source\Comercio\ClienteApi\bin\System.Web.Http.dll
 C:\Users\Diego\source\Comercio\ClienteApi\bin\System.Web.Http.WebHost.dll
 C:\Users\Diego\source\Comercio\ClienteApi\bin\ClienteDataService.pdb
+C:\Users\Diego\source\Comercio\ClienteApi\bin\ClienteDataService.dll.config
 C:\Users\Diego\source\Comercio\ClienteApi\bin\ClienteService.pdb
+C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.xml
+C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.SqlServer.xml
 C:\Users\Diego\source\Comercio\ClienteApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Diego\source\Comercio\ClienteApi\bin\Newtonsoft.Json.xml
 C:\Users\Diego\source\Comercio\ClienteApi\bin\System.Net.Http.Formatting.xml
@@ -118,8 +123,3 @@ C:\Users\Diego\source\Comercio\ClienteApi\obj\Debug\ClienteApi.csprojResolveAsse
 C:\Users\Diego\source\Comercio\ClienteApi\obj\Debug\ClienteApi.csproj.CoreCompileInputs.cache
 C:\Users\Diego\source\Comercio\ClienteApi\obj\Debug\ClienteApi.dll
 C:\Users\Diego\source\Comercio\ClienteApi\obj\Debug\ClienteApi.pdb
-C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.dll
-C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.SqlServer.dll
-C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.xml
-C:\Users\Diego\source\Comercio\ClienteApi\bin\EntityFramework.SqlServer.xml
-C:\Users\Diego\source\Comercio\ClienteApi\bin\ClienteDataService.dll.config
