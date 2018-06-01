@@ -15,7 +15,7 @@ namespace Consola
             //imprimo la cantidad de clientes
             Console.WriteLine("cantidad de clientes" + listaclientes.Count);
 
-            //Imprimo clientes con su localidad respectiva
+            //Imprimo clientes con su localidad 
             for (int i = 0; i < listaclientes.Count; i++)
             {
                 Console.WriteLine(listaclientes[i].nombreCompleto);
